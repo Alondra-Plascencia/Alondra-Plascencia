@@ -1,3 +1,6 @@
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h1> Hello! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
@@ -23,78 +26,22 @@
 
 •⁠  ⁠💼 My Stack: I've gained proficiency in Python, JavaScript, and SQL, and I'm continuously enhancing my programming abilities.
 
-<h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"> </h2>
+<h2> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"> Skills </h2>
+<p align="center">
+  <a href="https://www.github.com/Alondra-Plascencia">
+    <img src="https://skillicons.dev/icons?i=blender,git,github,html,js,latex,matlab,py,r,vscode,,&perline=14" />
+  </a>
+</p>
 
-<a href="https://github.com/Alondra-Plascencia?tab=repositories&q=&type=&language=python&sort=">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" alt="Python">
-</a>
+<h2> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Stats </h2>
+<img width="50%" align="left" alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Alondra-Plascencia&theme=tokyo-night" />
+<img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alondra-Plascencia&theme=tokyonight" alt="Top Languages Used" />
+<br clear="all">
 
-<a href="https://github.com/Alondra-Plascencia">
-  <img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="Jupyter Notebooks">
-</a>
-
-<a href="https://github.com/Alondra-Plascencia">
-  <img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" alt="R">
-</a>
-
-<a href="https://github.com/Alondra-Plascencia">
-  <img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/1200px-Matlab_Logo.png" alt="Matlab">
-</a>
-
-<a href="https://github.com/Alondra-Plascencia">
-  <img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL">
-</a>
-
-<a href="https://github.com/Alondra-Plascencia">
-  <img width="32px" src="https://www.emv.ovgu.de/emv_media/Layout/Logos/overleaf_og_logo-height-230-width-230.png" alt="LaTeX">
-</a>
-
-<a href="https://github.com/Alondra-Plascencia">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg" alt="JavaScript">
-</a>
-
-<a href="https://github.com/Alondra-Plascencia">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg" alt="Git">
-</a>
-
-<a href="https://github.com/Alondra-Plascencia">
-  <img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSCode">
-</a>
-
-<a href="https://github.com/Alondra-Plascencia">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="GitHub">
-</a>
-
-
-
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/aloplascenciaanalysis/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href="mailto:alomapla1604@gmail.com"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mail.svg"/></a>
+<h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70"> Connect with me </h2>
+<a href = 'https://www.linkedin.com/in/aloplascenciaanalysis/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
+<a href="mailto:alomapla1604@gmail.com"> <img width="32px" src="https://cdn.simpleicons.org/gmail/D14836" alt="Gmail"/></a>
 <a href = 'https://www.github.com/Alondra-Plascencia'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 
-
-  
-<br>
-<br>
-  <br>
-
-<img width="50%" align="left" alt="Top Languages" src="https://github-readme-activity-graph.vercel.app/graph?username=Tonycode-MX&theme=tokyo-night" /> <img width="43%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Tonycode-MX&theme=tokyonight" />
-
-
-
-<br>
-
-<!--
-**Alondra-Plascencia/Alondra-Plascencia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
