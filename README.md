@@ -16,21 +16,18 @@
 
 <h2> About Me </h2>
 
-<img width="35%" align="right" alt="Top Languages" src="https://github-readme-stats.vercel.app/api?username=Alondra-Plascencia&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight" />
+• 🎓 Academic Focus: I'm currently pursuing a degree in Physics at the University of Guadalajara.
 
-•⁠  ⁠🎓 Academic Focus: I'm currently pursuing a degree in Physics at the University of Guadalajara.
+• 🌸 Skill Development: My current focus is on mastering Git and R, while expanding my knowledge in data science, machine learning, and AI.
 
-•⁠  ⁠🌸 Skill Development: My current focus is on mastering Git and R, while expanding my knowledge in data science, machine learning, and AI.
-
-•⁠  ⁠🔭 Open for Projects: Eager to contribute to collaborations involving artificial intelligence, data analysis, scientific computing, or other cutting-edge technologies.
+• 🔭 Open for Projects: Eager to contribute to collaborations involving artificial intelligence, data analysis, scientific computing, or other cutting-edge technologies.
 
 • 📚 My Stack: I've gained proficiency in Python, JavaScript, and SQL, and I'm continuously enhancing my programming abilities.
 
-<br clear="all">
 <br>
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Alondra-Plascencia&theme=tokyonight&show_icons=true" alt="My GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alondra-Plascencia&theme=tokyonight&show_icons=true" alt="My GitHub Stats" />
 </div>
 
 <br>
