@@ -24,12 +24,15 @@
 
 •⁠  ⁠🔭 Open for Projects: Eager to contribute to collaborations involving artificial intelligence, data analysis, scientific computing, or other cutting-edge technologies.
 
-•⁠  ⁠📚 My Stack: I've gained proficiency in Python, JavaScript, and SQL, and I'm continuously enhancing my programming abilities.
+• 📚 My Stack: I've gained proficiency in Python, JavaScript, and SQL, and I'm continuously enhancing my programming abilities.
+
+<br clear="all">
+<br>
 
 <h2> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"> Skills </h2>
 <p align="center">
   <a href="https://www.github.com/Alondra-Plascencia">
-    <img src="https://skillicons.dev/icons?i=blender,git,github,html,js,latex,matlab,py,r,vscode,,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=blender,git,github,html,js,latex,matlab,py,r,vscode&perline=14" />
   </a>
 </p>
 
