@@ -29,12 +29,18 @@
 <br clear="all">
 <br>
 
+<div align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Alondra-Plascencia&theme=tokyonight&show_icons=true" alt="My GitHub Stats" />
+</div>
+
+<br>
+
 <h2> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"> Skills </h2>
-<p align="center">
+<div align="center">
   <a href="https://www.github.com/Alondra-Plascencia">
     <img src="https://skillicons.dev/icons?i=blender,git,github,html,js,latex,matlab,py,r,vscode&perline=14" />
   </a>
-</p>
+</div>
 
 <h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70"> Connect with me </h2>
 <a href = 'https://www.linkedin.com/in/aloplascenciaanalysis/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
