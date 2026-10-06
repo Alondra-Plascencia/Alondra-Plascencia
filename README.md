@@ -33,11 +33,6 @@
   </a>
 </p>
 
-<h2> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Stats </h2>
-<img width="50%" align="left" alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Alondra-Plascencia&theme=tokyo-night" />
-<img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alondra-Plascencia&theme=tokyonight" alt="Top Languages Used" />
-<br clear="all">
-
 <h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70"> Connect with me </h2>
 <a href = 'https://www.linkedin.com/in/aloplascenciaanalysis/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
 <a href="mailto:alomapla1604@gmail.com"> <img width="32px" src="https://cdn.simpleicons.org/gmail/D14836" alt="Gmail"/></a>
